@@ -1,4 +1,4 @@
-#Tugas Latihan Soal M9 Algoritma dan Pemrograman Jax Christian NRP : 2043261049
+#Tugas Latihan Soal M8 Algoritma dan Pemrograman Jax Christian NRP : 2043261049
 #Nomor 1
 nilai_kuis = [80, 75, 90, 65]
 for nilai in nilai_kuis:
